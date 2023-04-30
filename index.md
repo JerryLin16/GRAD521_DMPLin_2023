@@ -48,7 +48,8 @@ c.	Fruit skin cellular structures <1GB
 # Roles and responsibilities
 
 Copy paste what you wrote in DMP2 assignment
-1. Identify the data management roles that must be accomplished by someone in the research project where you participate so that the data will be well managed. You can use the general roles that we worked with during class, but be specific to your project (roles worked during the class are archiving and preservation; data manager; protection of sensitive and protected data; instrumentation maintenance; data collection/data generation; data organization; metadata generation; quality control; data analysis; DMP implementation; access control; software creation and maintenance). You may need to talk to your advisor and discuss the roles and responsibilities of the researchers that participate in the project to complete this part of the assignment. Make sure that you address:
+
+1.Identify the data management roles that must be accomplished by someone in the research project where you participate so that the data will be well managed. You can use the general roles that we worked with during class, but be specific to your project (roles worked during the class are archiving and preservation; data manager; protection of sensitive and protected data; instrumentation maintenance; data collection/data generation; data organization; metadata generation; quality control; data analysis; DMP implementation; access control; software creation and maintenance). You may need to talk to your advisor and discuss the roles and responsibilities of the researchers that participate in the project to complete this part of the assignment. Make sure that you address:
 
 a.	Who is responsible for the implementation of the DMP
 
@@ -81,7 +82,7 @@ c.	Contingency plans: what would happen if somebody with data management respons
 
 They need to return all lab notebooks, revoke data access on the cloud system, and give all raw data to PI before deleting data from their drives (like laptops or hard drives). In addition, they need to sign the form that they will not share the data with other people without a project leader (PI) agreement.
 
-2. We saw in class that some data needs to be protected. (a) Is your data sensitive or confidential according to OSU's definition of sensitive and confidential data? (b) Does any of your research data need to be protected? If so, what is your plan to do so?
+2.We saw in class that some data needs to be protected. (a) Is your data sensitive or confidential according to OSU's definition of sensitive and confidential data? (b) Does any of your research data need to be protected? If so, what is your plan to do so?
 
 (a)	Yes, the data in my project is confidential data.
 
@@ -95,7 +96,7 @@ They need to return all lab notebooks, revoke data access on the cloud system, a
 
 (4) Sign contracts or agreements with partners or data providers to clarify the terms and conditions of data use and protection.
 
-3.	Describe where the data will be stored during the project. 
+3.Describe where the data will be stored during the project. 
 
 (1) Use lab notebooks to record data from different projects or experimental methods and store lab notebooks in a safe place that only me or PI can get them (like locked drawer). 
 
@@ -103,7 +104,7 @@ They need to return all lab notebooks, revoke data access on the cloud system, a
 
 (3) Store the raw data in the lab computer.
 
-4.	Describe the backup strategy that you will follow for your datasets and other research materials in your project. Consider the following:
+4.Describe the backup strategy that you will follow for your datasets and other research materials in your project. Consider the following:
 
 a.	How many copies, in total, will you have?
 My answer: I have 3 copies of data (lab notebook, lab computer, and cloud system).
