@@ -48,7 +48,7 @@ c.	Fruit skin cellular structures <1GB
 # Roles and responsibilities
 
 Copy paste what you wrote in DMP2 assignment
-1.	Identify the data management roles that must be accomplished by someone in the research project where you participate so that the data will be well managed. You can use the general roles that we worked with during class, but be specific to your project (roles worked during the class are archiving and preservation; data manager; protection of sensitive and protected data; instrumentation maintenance; data collection/data generation; data organization; metadata generation; quality control; data analysis; DMP implementation; access control; software creation and maintenance). You may need to talk to your advisor and discuss the roles and responsibilities of the researchers that participate in the project to complete this part of the assignment. Make sure that you address:
+1. Identify the data management roles that must be accomplished by someone in the research project where you participate so that the data will be well managed. You can use the general roles that we worked with during class, but be specific to your project (roles worked during the class are archiving and preservation; data manager; protection of sensitive and protected data; instrumentation maintenance; data collection/data generation; data organization; metadata generation; quality control; data analysis; DMP implementation; access control; software creation and maintenance). You may need to talk to your advisor and discuss the roles and responsibilities of the researchers that participate in the project to complete this part of the assignment. Make sure that you address:
 
 a.	Who is responsible for the implementation of the DMP
 
